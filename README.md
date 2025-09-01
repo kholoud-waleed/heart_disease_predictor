@@ -10,7 +10,7 @@
 
 ---
 
-This repository contains a **complete end-to-end Machine Learning pipeline** built on the **Heart Disease UCI Dataset**.  
+This repository contains a **complete end-to-end Machine Learning pipeline** built on the **Heart Disease UCI Dataset**, as the project's target is to predict the presence of heart disease -- **Binary Classification**.
 The project demonstrates the full ML workflow, that involves **data preprocessing**, **feature selection**, **dimensionality reduction (PCA)**, **model training & evaluation**, and **deployment** using a **Streamlit web app**. 
 
 ---
@@ -95,13 +95,6 @@ The project demonstrates the full ML workflow, that involves **data preprocessin
 
 ---
 
-## 📑 Dataset  & Target of this Project:
-
-- **Dataset**: Heart Disease UCI Dataset  (https://archive.ics.uci.edu/dataset/45/heart+disease)
-- **Target**: Predict presence of heart disease (Binary Classification).  
-
----
-
 ## 📌 Results: 
 
 - Compared both supervised and unsupervised models on **Accuracy, Precision, Recall, F1-score and ROC/AUC score**.  
@@ -112,7 +105,7 @@ The project demonstrates the full ML workflow, that involves **data preprocessin
 
 ## 🙌 Acknowledgments: 
 
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) for dataset.  
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease) for dataset.  
 - Open-source community for ML libraries.  
 
 ---
